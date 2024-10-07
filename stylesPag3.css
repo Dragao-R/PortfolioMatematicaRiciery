@@ -1,0 +1,31 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.103);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(196, 35, 56);
+    padding: 10px;
+}
+
+footer a:hover {
+    background-color: #ffffff71;
+}
+
+footer .center {
+    margin: 0 auto;
+}
+
+table, p, td {
+    line-height: 1.8;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
